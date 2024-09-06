@@ -1,2 +1,2 @@
 # demo1
-It's a demo file..
+It's a demo file.

@@ -1,0 +1,11 @@
+h1{
+ color: #1b74e4;
+
+} 
+button:hover{
+    background-color: brown;
+} 
+button[id="register"]
+{
+    background-color: blueviolet;
+}
